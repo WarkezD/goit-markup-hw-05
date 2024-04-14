@@ -144,7 +144,7 @@ a  { text-decoration: none;}
         border: none;
         border-radius: 4px;
         margin: 0 auto;
-        padding: 0;
+        padding: 16px 32px;
         transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
         }
     .button:hover,
@@ -708,6 +708,23 @@ margin-bottom: 72px;
   border: none;
   fill: #f4f4fd;
 }
-
+.send-button {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background: #4d5ae5;
+  border-radius: 4px;
+  padding: 16px 32px;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  cursor: pointer;
+  margin: 0 auto;
+  display: block;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  text-align: center;
+  color: #fff;
+}
 
     
