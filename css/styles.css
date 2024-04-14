@@ -542,7 +542,7 @@ margin-bottom: 72px;
 .footer-button {
   font-family: "Roboto", sans-serif;
   cursor: pointer;
-
+  padding: 0;
   display: flex;
   align-items: center;
   justify-content: center;
